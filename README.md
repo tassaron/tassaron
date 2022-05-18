@@ -8,4 +8,4 @@ I'm Brianna Rainey, also known as `tassaron`. I love open source software so I c
 
 * I've been teaching myself to code for at least a decade now. I guess it's fun or something? See more in [my bio 📖](https://rainey.tech/bio)
 
-* [I also posts gists!🔗](https://gist.github.com/tassaron) Could be the unpolished gem you're looking for ;)
+* [I also post gists!🔗](https://gist.github.com/tassaron)
