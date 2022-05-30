@@ -2,10 +2,10 @@
 
 I'm Brianna Rainey, also known as `tassaron`. I love open source software so I create a lot of it on GitHub. I hope you find it useful! [=^.^=](https://github.com/tassaron/nagcat)
 
-* If you like my code, follow me on [Mastodon](https://tassaron.com/@brianna)! 🙂 I mostly post about software. Mastodon also has [RSS!](https://tassaron.com/@brianna.rss)
+* I have an [online arcade 🕹️](https://rainey.tech) where you can submit your score for tokens 🪙
 
-* I made an [online arcade 🕹️](https://rainey.tech) (which is also my portfolio).
+* Coding is fun! Learn about how I started coding in [my bio 📖](https://rainey.tech/bio)
 
-* I've been teaching myself to code for at least a decade now. I guess it's fun or something? See more in [my bio 📖](https://rainey.tech/bio)
+* Don't be afraid to [contact me](https://rainey.tech/contact); I love feedback! :)
 
 * [I also post gists!🔗](https://gist.github.com/tassaron)
